@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi everyone! I'm Yage Zhang — or you can just call me **Laqeey** /ˈlæ.ki/.
+Hi everyone! I'm Yage Zhang — or you can just call me **Laqeey** /ˈlɑː.tʃi/.
 
 I am currently a Master's student in Embedded Systems at Saarland University, Germany, and a research assistant at [CISPA Helmholtz Center for Information Security](https://cispa.de/de/people/c02yazh).
 
