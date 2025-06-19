@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I joined CISPA as a student research assistant (HiWi). You can find my profile [here](https://cispa.de/de/people/c02yazh).
+I joined CISPA as a student research assistant ([HiWi](https://cispa.de/de/people/c02yazh)). 
