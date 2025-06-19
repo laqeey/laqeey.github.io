@@ -43,13 +43,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-i-joined-cispa-as-a-student-research-assistant-hiwi",
+          title: 'I joined CISPA as a student research assistant (HiWi).',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-joined-the-lab-for-measurement-technology-saarland-university-as-a-student-research-assistant-hiwi",
+          title: 'I joined the Lab for Measurement Technology, Saarland University as a student research...',
           description: "",
           section: "News",},{id: "news-i-contributed-to-the-development-of-a-new-dataset-in-collaboration-with-the-lab-for-measurement-technology-saarland-university-the-dataset-titled-a-machine-learning-dataset-of-artificial-inner-ring-damages-on-cylindrical-roller-bearings-measured-under-varying-cross-influences-is-now-available-on-zenodo",
           title: 'I contributed to the development of a new dataset in collaboration with the...',
