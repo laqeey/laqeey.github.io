@@ -43,16 +43,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-contributed-to-the-development-of-a-new-dataset-in-collaboration-with-the-lab-for-measurement-technology-saarland-university-the-dataset-titled-a-machine-learning-dataset-of-artificial-inner-ring-damages-on-cylindrical-roller-bearings-measured-under-varying-cross-influences-is-now-available-on-zenodo",
+          title: 'I contributed to the development of a new dataset in collaboration with the...',
           description: "",
           section: "News",},{
         id: 'social-email',
