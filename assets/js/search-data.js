@@ -49,7 +49,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-joined-cispa-as-a-student-research-assistant-hiwi",
           title: 'I joined CISPA as a student research assistant(HiWi)!',
           description: "",
-          section: "News",},{id: "news-i-contributed-to-the-development-of-a-new-dataset-in-collaboration-with-the-lab-for-measurement-technology-saarland-university-the-dataset-titled-a-machine-learning-dataset-of-artificial-inner-ring-damages-on-cylindrical-roller-bearings-measured-under-varying-cross-influences-is-now-available-on-zenodo",
+          section: "News",},{id: "news-i-contributed-to-the-development-of-a-new-dataset-in-collaboration-with-the-lab-for-measurement-technology-saarland-university-the-dataset-titled-a-machine-learning-dataset-of-artificial-inner-ring-damages-on-cylindrical-roller-bearings-measured-under-varying-cross-influences-is-now-available-on-zenodo-this-work-was-made-possible-through-support-from-the-german-federal-government-funded-by-the-efre-programm-saarland-within-the-framework-of-the-vprosaar-initiative",
           title: 'I contributed to the development of a new dataset in collaboration with the...',
           description: "",
           section: "News",},{
