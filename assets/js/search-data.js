@@ -47,7 +47,7 @@ ninja.data = [{
           title: 'I joined the Lab for Measurement Technology, Saarland University as a student research...',
           description: "",
           section: "News",},{id: "news-i-joined-cispa-as-a-student-research-assistant-hiwi",
-          title: 'I joined CISPA as a student research assistant (HiWi).',
+          title: 'I joined CISPA as a student research assistant(HiWi)!',
           description: "",
           section: "News",},{id: "news-i-contributed-to-the-development-of-a-new-dataset-in-collaboration-with-the-lab-for-measurement-technology-saarland-university-the-dataset-titled-a-machine-learning-dataset-of-artificial-inner-ring-damages-on-cylindrical-roller-bearings-measured-under-varying-cross-influences-is-now-available-on-zenodo",
           title: 'I contributed to the development of a new dataset in collaboration with the...',
