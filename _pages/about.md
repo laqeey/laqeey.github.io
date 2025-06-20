@@ -28,7 +28,7 @@ latest_posts:
 
 Hi everyone! I'm Yage Zhang — or you can just call me **Laqeey** /ˈlɑː.tʃi/.
 
-I am currently a Master's student in Faculty of Mathematics and Computer Science at Saarland University, Germany, and a student research assistant(HIWI) at [CISPA Helmholtz Center for Information Security](https://cispa.de/de/people/c02yazh).
+I am currently a Master's student in Faculty of Mathematics and Computer Science at Saarland University, Germany, and a student research assistant(HiWi) at [CISPA Helmholtz Center for Information Security](https://cispa.de/de/people/c02yazh).
 
 My research interests lie in the security of generative AI models and the content safety on social media platforms.
 
