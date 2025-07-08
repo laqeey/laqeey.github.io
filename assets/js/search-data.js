@@ -52,8 +52,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-contributed-to-the-development-of-a-new-dataset-in-collaboration-with-the-lab-for-measurement-technology-saarland-university-the-dataset-titled-a-machine-learning-dataset-of-artificial-inner-ring-damages-on-cylindrical-roller-bearings-measured-under-varying-cross-influences-is-now-available-on-zenodo-this-work-was-made-possible-through-support-from-the-german-federal-government-funded-by-the-efre-programm-saarland-within-the-framework-of-the-vprosaar-initiative",
           title: 'I contributed to the development of a new dataset in collaboration with the...',
           description: "",
-          section: "News",},{id: "news-my-independent-work-cutting-the-root-of-hallucination-structural-trimming-for-vulnerability-mitigation-in-code-llms-has-been-accepted-to-colm-2025-see-you-in-montréal",
-          title: 'My independent work Cutting the Root of Hallucination: Structural Trimming for Vulnerability Mitigation...',
+          section: "News",},{id: "news-my-work-cutting-the-root-of-hallucination-structural-trimming-for-vulnerability-mitigation-in-code-llms-has-been-accepted-to-colm-2025-see-you-in-montréal",
+          title: 'My work Cutting the Root of Hallucination: Structural Trimming for Vulnerability Mitigation in...',
           description: "",
           section: "News",},{
         id: 'social-email',
