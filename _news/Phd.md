@@ -1,3 +1,4 @@
+---
 layout: post
 title: Joined CISPA as a PhD Student
 date: 2025-08-01 09:00:00+0200
