@@ -55,6 +55,9 @@ ninja.data = [{
           section: "News",},{id: "news-my-work-cutting-the-root-of-hallucination-structural-trimming-for-vulnerability-mitigation-in-code-llms-has-been-accepted-to-colm-2025-see-you-in-montréal",
           title: 'My work Cutting the Root of Hallucination: Structural Trimming for Vulnerability Mitigation in...',
           description: "",
+          section: "News",},{id: "news-i-m-excited-to-share-that-i-officially-joined-cispa-as-a-phd-student-looking-forward-to-the-journey-ahead-in-security-amp-amp-privacy-research",
+          title: 'I’m excited to share that I officially joined CISPA as a PhD student!...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
