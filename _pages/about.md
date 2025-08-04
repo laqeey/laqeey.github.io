@@ -18,18 +18,18 @@ social: false # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 8 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 5 # leave blank to include all the blog posts
+  limit: 8 # leave blank to include all the blog posts
 ---
 
 Hi everyone! I'm Yage Zhang — or you can just call me **Laqeey** /ˈlɑː.tʃi/.
 
-I am currently a Master's student in Faculty of Mathematics and Computer Science at Saarland University, Germany, and a student research assistant(HiWi) at [CISPA Helmholtz Center for Information Security](https://cispa.de/de/people/c02yazh).
+I am currently a PhD student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), jointly supervised by [Prof. Yang Zhang](https://yangzhangalmo.github.io/) and [Prof. Dr. Dr. h.c. Michael Backes](https://cispa.de/de/research/groups/backes). Prior to this, I completed my Master's in the Faculty of Mathematics and Computer Science at Saarland University, where I also worked as a student research assistant (HiWi) at CISPA.
 
-My research interests lie in the security of generative AI models and the content safety on social media platforms.
+My research interests focus on the security of generative AI models and content safety on social media platforms.
 
 
