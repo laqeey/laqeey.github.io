@@ -26,7 +26,7 @@ latest_posts:
   limit: 8 # leave blank to include all the blog posts
 ---
 
-Hi everyone! I'm Yage Zhang — or you can just call me **Laqeey** /ˈlɑː.tʃi/.
+I'm Yage Zhang — or you can just call me **Laqeey** /ˈlɑː.tʃi/.
 
 I am currently a PhD student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), jointly supervised by [Prof. Yang Zhang](https://yangzhangalmo.github.io/) and [Prof. Dr. Dr. h.c. Michael Backes](https://cispa.de/de/research/groups/backes). Prior to this, I obtained my Master degree at Saarland University.
 
