@@ -22,7 +22,7 @@ announcements:
 
 service:
   enabled: true
-  scrollable: true
+  scrollable: false
   limit: 8
 
 
