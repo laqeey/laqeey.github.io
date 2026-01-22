@@ -149,6 +149,9 @@ collections:
     output: true
   projects:
     output: true
+  service:
+    output: false
+
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
