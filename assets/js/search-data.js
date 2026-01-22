@@ -58,7 +58,12 @@ ninja.data = [{
           section: "News",},{id: "news-i-m-excited-to-share-that-i-officially-joined-cispa-as-a-phd-student-looking-forward-to-the-journey-ahead-in-security-amp-amp-privacy-research",
           title: 'I’m excited to share that I officially joined CISPA as a PhD student!...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "service-service",
+          title: 'Service',
+          description: "",
+          section: "Service",handler: () => {
+              window.location.href = "/service/reviewing/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
