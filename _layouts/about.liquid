@@ -48,6 +48,13 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+    <!-- Service -->
+    {% if page.service and page.service.enabled %}
+      <h2 style="color: inherit">service</h2>
+      {% include service.liquid %}
+    {% endif %}
+
+
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
       <h2>
