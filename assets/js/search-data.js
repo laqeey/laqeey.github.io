@@ -58,7 +58,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-m-excited-to-share-that-i-officially-joined-cispa-as-a-phd-student-looking-forward-to-the-journey-ahead-in-security-amp-amp-privacy-research",
           title: 'I’m excited to share that I officially joined CISPA as a PhD student!...',
           description: "",
-          section: "News",},{id: "news-our-work-de-clip-few-shot-anomaly-detection-via-difference-guided-embedding-editing-has-been-accepted-to-acl-2026-see-you-in-santiago",
+          section: "News",},{id: "news-our-work-de-clip-few-shot-anomaly-detection-via-difference-guided-embedding-editing-has-been-accepted-to-acl-2026-see-you-in-san-diego",
           title: 'Our work DE-CLIP: Few-Shot Anomaly Detection via Difference-Guided Embedding Editing has been accepted...',
           description: "",
           section: "News",},{id: "service-service",
