@@ -20,7 +20,7 @@ email: yage.zhang@cispa.de
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-# linkedin_username: # your LinkedIn user name
+linkedin_username: yage-zhang-396ba02a7
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -30,7 +30,7 @@ email: yage.zhang@cispa.de
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: wG0cAAAAJ # your Google Scholar ID wG0cAAAAJ&hl
+scholar_userid: pv-wG0cAAAAJ
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
@@ -42,7 +42,7 @@ scholar_userid: wG0cAAAAJ # your Google Scholar ID wG0cAAAAJ&hl
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
-# x_username: # your X handle
+x_username: YageZhang9830
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
