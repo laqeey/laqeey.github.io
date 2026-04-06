@@ -74,6 +74,13 @@ ninja.data = [{
           window.open("mailto:%79%61%67%65.%7A%68%61%6E%67@%63%69%73%70%61.%64%65", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/yage-zhang-396ba02a7", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
@@ -85,7 +92,14 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=wG0cAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=pv-wG0cAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/YageZhang9830", "_blank");
         },
       },{
         id: 'social-custom_social',
