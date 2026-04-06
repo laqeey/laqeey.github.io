@@ -28,15 +28,16 @@ service:
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new post items
   limit: 8 # leave blank to include all the blog posts
 ---
 
 Hi! I'm Yage Zhang — or you can just call me **Laqeey** /ˈlɑː.tʃi/.
 
-I am currently a PhD student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), jointly supervised by [Prof. Yang Zhang](https://yangzhangalmo.github.io/) and [Prof. Dr. Dr. h.c. Michael Backes](https://cispa.de/de/research/groups/backes). Prior to this, I obtained my Master degree at Saarland University.
+I am currently a PhD student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), jointly supervised by [Prof. Yang Zhang](https://yangzhangalmo.github.io/) and [Prof. Dr. Dr. h.c. Michael Backes](https://cispa.de/de/research/groups/backes). Before this, I obtained my Master's degree at Saarland University.
 
-My research interests focus on the **Security and Structured Robustness of Generative AI Models** and the **Proactive Harmful Content Detection with Trustworthy Machine Learning**.
-
+My research interests focus on
+- **Practical AI Ecosystem Security**: Identifying and addressing vulnerabilities and safety failures in real-world deployed AI systems.
+- **Proactive AI-Society Risk Analysis**: Studying emerging risks as AI agents interact with each other and with humans.
 
 
