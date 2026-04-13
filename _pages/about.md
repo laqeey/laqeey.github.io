@@ -34,7 +34,7 @@ latest_posts:
 
 Hi! I'm Yage Zhang — or you can just call me **Laqeey** /ˈlɑː.tʃi/.
 
-I am currently a PhD student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), jointly supervised by [Prof. Yang Zhang](https://yangzhangalmo.github.io/) and [Prof. Dr. Dr. h.c. Michael Backes](https://cispa.de/de/research/groups/backes). Before this, I obtained my Master's degree at Saarland University.
+I am currently a PhD student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), advised by [Prof. Dr. Dr. h.c. Michael Backes](https://cispa.de/de/research/groups/backes) and [Prof. Yang Zhang](https://yangzhangalmo.github.io/). Before this, I obtained my Master's degree at Saarland University.
 
 My research interests focus on
 - **Practical AI Ecosystem Security**: Identifying and addressing vulnerabilities and safety failures in real-world deployed AI systems.
