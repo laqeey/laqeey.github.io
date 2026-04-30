@@ -7,5 +7,5 @@ related_posts: false
 ---
 
 
-Our work **Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs** has been accepted to [[ICML 2026](https://icml.cc/)]! See you in Seoul!
+Our work **Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs** has been accepted to [ICML 2026](https://icml.cc/)! See you in Seoul!
 
