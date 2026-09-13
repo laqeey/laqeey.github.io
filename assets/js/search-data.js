@@ -64,7 +64,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-work-sparse-models-sparse-safety-unsafe-routes-in-mixture-of-experts-llms-has-been-accepted-to-icml-2026-see-you-in-seoul",
           title: 'Our work Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs has been...',
           description: "",
-          section: "News",},{id: "news-two-of-our-works-on-otome-game-communities-and-shadow-apis-have-been-accepted-to-ccs-2026-see-you-in-the-hague",
+          section: "News",},{id: "news-two-of-our-works-on-otome-game-communities-and-shadow-apis-have-been-accepted-to-ccs-2026-see-you-in-hague",
           title: 'Two of our works (on Otome Game Communities and Shadow APIs) have been...',
           description: "",
           section: "News",},{id: "service-service",
