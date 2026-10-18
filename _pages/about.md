@@ -9,7 +9,7 @@ profile:
   image: photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Photo taken at CISPA.</p>
+    <p> Photo taken at CISPA, Germany.</p>
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
