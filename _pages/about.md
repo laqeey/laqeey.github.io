@@ -6,10 +6,10 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Me and the Shiba</p> <p>૮₍ ˊᗜˋ₎ა</p>
+    <p> Photos taken at CISPA.</p>
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
