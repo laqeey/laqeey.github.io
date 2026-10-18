@@ -36,5 +36,5 @@ Hi! I'm Yage Zhang — or you can just call me **Laqeey** /ˈlɑː.tʃi/.
 
 I am currently a PhD student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), advised by [Prof. Dr. Dr. h.c. Michael Backes](https://michaelbackes.eu/) and [Prof. Yang Zhang](https://yangzhangalmo.github.io/). Before this, I obtained my Master's degree at Saarland University.
 
-My research focuses on the **security**, **safety**, and **societal impact of AI**, particularly large language models and AI agents.
+My research focuses on the **security**, **privacy**, and **societal impact of AI**, particularly large language models and AI agents.
 
